@@ -1,6 +1,2 @@
 # KerjaPraktek_khevin-Adam
-# KerjaPraktek_khevin-Adam
-# KerjaPraktek_khevin-Adam
-# KerjaPraktek_khevin-Adam
-# KerjaPraktek_khevin-Adam
-# KerjaPraktek_khevin-Adam
+Hasil dari kegiatan Kerja Praktek bertujuan memenuhi syarat dan ketentuan kampus Universitas Darma Persada dalam tugas latihan membuat Website untuk Perusahaan yang sedang disinggahi untuk program magang
